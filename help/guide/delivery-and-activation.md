@@ -1,48 +1,55 @@
 ---
-title: 'Distribuzione e attivazione: esperienze di potenza e prestazioni'
-description: Per l’azienda che necessita di supporto, ottenere il contenuto giusto davanti al singolo sul canale giusto. La catena di fornitura dei contenuti rende tale connessione migliore di qualsiasi altra soluzione, fornendo al contempo le analisi per garantire prestazioni complessive dei contenuti.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
-topic: Content Management, Collaboration, Personalization
+title: Tutorial su consegna e attivazione
+description: Esperienze avanzate e prestazioni elevate per contenuti e campagne.  Attivazione rapida delle risorse e migliori prestazioni dei contenuti
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
+topic: Content Management, Collaboration, Personalization, Artificial Intelligence
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 1%
+source-wordcount: '610'
+ht-degree: 2%
 
 ---
 
 
-# Distribuzione e attivazione: esperienze di alimentazione e prestazioni
+# Tutorial su consegna e attivazione
 
-Per l’azienda che necessita di supporto, ottenere il contenuto giusto davanti al singolo sul canale giusto. La catena di fornitura dei contenuti rende tale connessione migliore di qualsiasi altra soluzione, fornendo al contempo le analisi per garantire prestazioni complessive dei contenuti.
-
-## Casi d’uso aziendali principali
-
-* Trovare e riutilizzare facilmente le risorse
-* Creazione e pubblicazione rapida di esperienze ad alto impatto
-* Genera e verifica copia istantaneamente
-* Distribuire esperienze pertinenti e personalizzate tra i canali
+Esperienze avanzate e prestazioni elevate per contenuti e campagne.  Attivazione rapida delle risorse e migliori prestazioni dei contenuti
 
 Adobi di soluzioni utilizzate per l’attivazione e l’analisi dei contenuti:
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
       </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Previsto" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Destinazione</strong>
+      </td>
     </tr>
 </table>
+
+>[!TIP]
+>
+>Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta la sezione [Tutorial sull’integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutorial
 
