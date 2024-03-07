@@ -1,27 +1,27 @@
 ---
-title: 'Workflow e pianificazione: semplificazione e accelerazione del lavoro'
-description: Per le aziende che hanno difficoltà a collegare e tenere traccia dei propri requisiti di contenuto attraverso il processo di pianificazione, fino alla produzione e al completamento dei contenuti. La mancanza di processi efficaci, pianificazione, approvazioni e coerenza dei dati tra i progetti sta privando la catena di fornitura dei contenuti di questa azienda sia della produttività che dell'efficienza.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
-feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+title: Tutorial su flusso di lavoro e pianificazione
+description: Creare flussi di lavoro semplificati e trasparenti per l'intero ciclo di vita dei contenuti.  Accelerare il processo di revisione e approvazione.  Automatizzare i flussi di lavoro manuali.
+solution: Experience Cloud, Workfront, Creative Cloud
+feature-set: Creative Cloud, Workfront
+feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '446'
 ht-degree: 8%
 
 ---
 
 
-# Flusso di lavoro e pianificazione: semplificazione e accelerazione del lavoro
+# Tutorial su flusso di lavoro e pianificazione
 
-Questo è destinato alle aziende che hanno difficoltà a collegarsi e a tenere traccia dei propri requisiti di contenuto, dalla pianificazione alla produzione fino al completamento. La mancanza di processi efficaci, pianificazione, approvazioni e coerenza dei dati tra i progetti priva la catena di fornitura dei contenuti di questa azienda di produttività ed efficienza.
+Creare flussi di lavoro semplificati e trasparenti per l&#39;intero ciclo di vita dei contenuti.  Accelerare il processo di revisione e approvazione.  Automatizzare i flussi di lavoro manuali.
 
-Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
+Adobi di soluzioni utilizzate per il flusso di lavoro e la pianificazione:
 
 <table>
     <tr style="border: 0;">
@@ -33,19 +33,12 @@ Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Frame.io</strong>
       </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>AEM Assets</strong>
-      </td>
     </tr>
 </table>
 
-## Casi d’uso aziendali principali
-
-* Semplificare flussi di lavoro e approvazioni
-* Ottimizzazione di spesa e risorse
-* Maggiore visibilità di capacità, progetti, rischi e tempistiche
-* Automatizzare i processi a valle, come l’assegnazione di tag ai metadati
+>[!TIP]
+>
+>Il nostro team di Adobi esperti dei prodotti ha assemblato una raccolta di tutorial sull’integrazione per i casi d’uso principali della supply chain dei contenuti. Se utilizzi più di una soluzione, scopri il modo migliore per integrarle.  Consulta la sezione [Tutorial sull’integrazione della supply chain dei contenuti](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Corsi consigliati
 
