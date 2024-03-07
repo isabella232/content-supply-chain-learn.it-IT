@@ -1,84 +1,30 @@
 ---
-title: Catena di fornitura del contenuto Adobe
-description: La supply chain dei contenuti di Adobe è una soluzione end-to-end per accelerare e semplificare la supply chain dei contenuti con l’intelligenza artificiale generativa e l’automazione intelligente.
-source-git-commit: d5f4c8023e7d7964757ee71557766495d7aca64c
+title: Catena di fornitura del contenuto di Adobe
+description: La supply chain dei contenuti di Adobe è una soluzione end-to-end per accelerare e semplificare la supply chain dei contenuti con l'intelligenza artificiale generativa e l'automazione intelligente.
+source-git-commit: f979dd648619ea01e8bf6f0c4355cb3b707aa239
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 
-# Tutorials catena di fornitura contenuto Adobe
+# Adobe di tutorial sulla supply chain dei contenuti
 
->[!BEGINSHADEBOX]
-
-Gli strumenti Adobe per la supply chain dei contenuti consentono di accelerare la capacità di esecuzione dell’organizzazione consentendo al team di scalare la creazione dei contenuti con l’intelligenza artificiale generativa, aumentare l’agilità del team e la velocità di commercializzazione e migliorare il ROI e l’efficienza dei contenuti.
-
->[!VIDEO](https://video.tv.adobe.com/v/3424114?quality=12&learn=on)
+Gli strumenti Adobe per la supply chain dei contenuti aiutano ad accelerare la capacità di esecuzione della tua organizzazione consentendo al tuo team di scalare la creazione dei contenuti con l’intelligenza artificiale generativa, aumentare l’agilità del team e la velocità di commercializzazione e migliorare il ROI e l’efficienza dei contenuti.
 
 Una catena di fornitura di contenuti riunisce persone, strumenti e flussi di lavoro per pianificare, creare, produrre, distribuire e misurare in modo efficace i contenuti. Con i clienti che richiedono esperienze di qualità superiore a un ritmo sempre più veloce, insieme alla complessità di più canali e formati, i brand devono rivoluzionare il loro modo di pensare ai contenuti.
 
->[!ENDSHADEBOX]
+Scopri come sovrascrivere il processo di creazione e distribuzione di contenuti end-to-end con la potenza dell’intelligenza artificiale generativa tramite queste esercitazioni.
 
-<table>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <img alt="Flusso di lavoro e pianificazione" src="./../assets/planning-workflow.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <strong>Flusso di lavoro e pianificazione</strong>
-        </a>
-        </div>
-        <p>
-        <em>Semplificazione e orchestrazione del lavoro</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <img alt="Produttività creativa" src="./../assets/creative-productivity.png">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <strong>Produttività creativa</strong>
-        </a>
-        </div>
-        <p>
-        <em>Sovrafatturazione dei team creativi</em>
-        <p>
-      </td>
-    </tr>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <img alt="Agilità di marketing" src="./../assets/marketing-agility.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <strong>Agilità di marketing</strong>
-        </a>
-        </div>
-        <p>
-        <em>Consentire agli addetti al marketing e ad altri team di immettere rapidamente i contenuti sul mercato</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <img alt="Consegna e attivazione" src="./../assets/content-activation-analytics.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <strong>Consegna e attivazione</strong>
-        </a>
-        </div>
-        <p>
-        <em>Consegna e prestazioni</em>
-        <p>
-      </td>
-    </tr>
-</table>
+
+* [Flusso di lavoro e pianificazione](workflow-and-planning.md) : creazione di flussi di lavoro collegati in modo trasparente, rapido ed efficiente.
+* [Creazione e produzione di contenuti](content-creation-and-production.md) : trasforma il lavoro creativo con l’intelligenza artificiale generativa, automatizza le varianti di contenuto su larga scala e consenti agli esperti di marketing di creare contenuti all’interno del brand.
+* [Gestione risorse](asset-management.md) - Centralizzare, gestire e amministrare milioni di risorse in tutta l&#39;organizzazione.
+* [Consegna e attivazione](delivery-and-activation.md) - Distribuzione dei contenuti in ogni fase del percorso.
+* *Reporting e approfondimenti* - Migliorare il ROI dei contenuti migliorando l&#39;utilizzo dei contenuti e le prestazioni.
+
+<!-- * [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
 
 ## Risorse aggiuntive
 
